@@ -1,0 +1,101 @@
+/* copy and paste everything below for each color */
+
+header {
+    display: flex; 
+    justify-content: space-around; 
+    padding: 30px; 
+    margin: -9px; 
+    margin-bottom: 40px; 
+    background-color: lightgray; 
+    font-size: 20px;
+    font-weight: 20;
+}
+
+
+
+a {
+    text-decoration: none; 
+    color: black; 
+}
+
+a:hover {
+    text-decoration: underline;
+
+}
+
+
+
+.container {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    margin: 0 10x;  
+   
+    
+}
+
+p {
+    width: 250px;
+    height: 250px; 
+    margin:20px;
+    font-size: 25px; 
+    text-shadow: 2px 2px 2px rgb(38, 38, 38); 
+    color: white;  
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    
+
+    
+}
+
+/* copy and paste everything above for each color */
+
+.one {
+    background-color: #9F2B68;
+}
+
+.two {
+    background-color: #702963;
+}
+
+.three {
+    background-color: #301934;
+}
+
+.four {
+    background-color: #5D3FD3;
+}
+
+.five {
+    background-color: #E6E6FA;
+}
+
+.six {
+    background-color: #CF9FFF;
+}
+
+.seven {
+    background-color: #E0B0FF;
+}
+
+.eight {
+    background-color: #CCCCFF;
+}
+
+.nine {
+    background-color: #673147;
+}
+
+.ten {
+    background-color: #51414F;
+}
+
+.eleven {
+    background-color: #D8BFD8;
+}
+
+.twelve {
+    background-color: #BDB5D5;
+}

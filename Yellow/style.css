@@ -1,0 +1,100 @@
+/* copy and paste everything below for each color */
+
+header {
+    display: flex; 
+    justify-content: space-around; 
+    padding: 30px; 
+    margin: -9px; 
+    margin-bottom: 40px; 
+    background-color: lightgray; 
+    font-size: 20px;
+    font-weight: 20;
+}
+
+
+a {
+    text-decoration: none; 
+    color: black; 
+}
+
+a:hover {
+    text-decoration: underline;
+
+}
+
+
+
+.container {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    margin: 0 10x;  
+   
+    
+}
+
+p {
+    width: 250px;
+    height: 250px; 
+    margin:20px;
+    font-size: 25px; 
+    text-shadow: 2px 2px 2px rgb(38, 38, 38); 
+    color: white;  
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    
+
+    
+}
+
+/* copy and paste everything above for each color */
+
+.one {
+    background-color: #FDDA0D;
+}
+
+.two {
+    background-color: #FFFF8F;
+}
+
+.three {
+    background-color: #FFF8DC;
+}
+
+.four {
+    background-color: #FFC000;
+}
+
+.five {
+    background-color: #FCF55F;
+}
+
+.six {
+    background-color: #F8DE7E;
+}
+
+.seven {
+    background-color: #FAFA33;
+}
+
+.eight {
+    background-color: #FBEC5D;
+}
+
+.nine {
+    background-color: #FFDB58;
+}
+
+.ten {
+    background-color: #FADA5E ;
+}
+
+.eleven {
+    background-color: #FFFAA0;
+}
+
+.twelve {
+    background-color: #C4B454;
+}

@@ -1,0 +1,1 @@
+# Just playing around with flex, color codes, and overall layout of a page. Had a main page and was going to have an option for colors or fonts, but figuring out font family on VS code was confusing me, so I scrapped the main page. 
